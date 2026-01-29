@@ -6,6 +6,14 @@
 
 <img width="592" height="418" alt="1 3" src="https://github.com/user-attachments/assets/dce2c0bb-2684-4fc3-8fdb-2e1a6721fe04" />
 
+[deployment pod nginx и multitool](https://github.com/ComondanteChe/k8s-3/blob/main/deployment-nginx-multitool.yaml)
+
+[service для проверки deployment nginx, multitool](https://github.com/ComondanteChe/k8s-3/blob/main/deployment-srv.yaml)
+
 ## Задание 2
 
 <img width="659" height="358" alt="2" src="https://github.com/user-attachments/assets/7937ee4f-67c7-4552-af03-2f3280e859f4" />
+
+[deployment для проверки init](https://github.com/ComondanteChe/k8s-3/blob/main/deployment-nginx.yaml)
+
+[service для проверки init](https://github.com/ComondanteChe/k8s-3/blob/main/deployment-srv.yaml)
